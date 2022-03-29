@@ -1,0 +1,13 @@
+C:\Users\Jepor\source\repos\Slayer Task Simulator\bin\Debug\netcoreapp3.1\Slayer Task Simulator.exe
+C:\Users\Jepor\source\repos\Slayer Task Simulator\bin\Debug\netcoreapp3.1\Slayer Task Simulator.deps.json
+C:\Users\Jepor\source\repos\Slayer Task Simulator\bin\Debug\netcoreapp3.1\Slayer Task Simulator.runtimeconfig.json
+C:\Users\Jepor\source\repos\Slayer Task Simulator\bin\Debug\netcoreapp3.1\Slayer Task Simulator.runtimeconfig.dev.json
+C:\Users\Jepor\source\repos\Slayer Task Simulator\bin\Debug\netcoreapp3.1\Slayer Task Simulator.dll
+C:\Users\Jepor\source\repos\Slayer Task Simulator\bin\Debug\netcoreapp3.1\Slayer Task Simulator.pdb
+C:\Users\Jepor\source\repos\Slayer Task Simulator\obj\Debug\netcoreapp3.1\Slayer Task Simulator.csprojAssemblyReference.cache
+C:\Users\Jepor\source\repos\Slayer Task Simulator\obj\Debug\netcoreapp3.1\Slayer Task Simulator.AssemblyInfoInputs.cache
+C:\Users\Jepor\source\repos\Slayer Task Simulator\obj\Debug\netcoreapp3.1\Slayer Task Simulator.AssemblyInfo.cs
+C:\Users\Jepor\source\repos\Slayer Task Simulator\obj\Debug\netcoreapp3.1\Slayer Task Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Jepor\source\repos\Slayer Task Simulator\obj\Debug\netcoreapp3.1\Slayer Task Simulator.dll
+C:\Users\Jepor\source\repos\Slayer Task Simulator\obj\Debug\netcoreapp3.1\Slayer Task Simulator.pdb
+C:\Users\Jepor\source\repos\Slayer Task Simulator\obj\Debug\netcoreapp3.1\Slayer Task Simulator.genruntimeconfig.cache
