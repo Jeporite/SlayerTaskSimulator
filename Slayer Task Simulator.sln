@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slayer Task Simulator", "Slayer Task Simulator.csproj", "{899E33C9-503A-4B48-B39D-5BFE4F547291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899E33C9-503A-4B48-B39D-5BFE4F547291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899E33C9-503A-4B48-B39D-5BFE4F547291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899E33C9-503A-4B48-B39D-5BFE4F547291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899E33C9-503A-4B48-B39D-5BFE4F547291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5510133-A707-4B61-A54E-F942064E8FD5}
+	EndGlobalSection
+EndGlobal
